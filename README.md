@@ -4,7 +4,7 @@ This repository implements machine learning pipelines to predict diabetes and st
 
 ## Project Description
 
-Focuses on binary classification for diabetes (Pima dataset) and stroke (healthcare-stroke dataset). Key risk factors analyzed: age, hypertension, heart_disease, BMI, avg_glucose_level, smoking_status.[web:43][web:21] Handles class imbalance, feature scaling, and hyperparameter tuning for robust predictions.
+Focuses on binary classification for diabetes (Pima dataset) and stroke (healthcare-stroke dataset). Key risk factors analyzed: age, hypertension, heart_disease, BMI, avg_glucose_level, smoking_status.Handles class imbalance, feature scaling, and hyperparameter tuning for robust predictions.
 
 ## No Local Setup Needed
 
